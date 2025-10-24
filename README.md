@@ -8,7 +8,7 @@
 ## 🚀 Features / Recursos
 - 🇬🇧 Easy one-command installation  
   🇧🇷 Instalação simples com um único comando  
-- 🇬🇧 Works on Linux-based systems  
+- 🇬🇧 Works on Linux and Windows based systems  
   🇧🇷 Compatível com sistemas baseados em Linux e Windows 
 - 🇬🇧 Includes uninstall script  
   🇧🇷 Inclui script de desinstalação  
